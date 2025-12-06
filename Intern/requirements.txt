@@ -1,3 +1,5 @@
-Flask
-pdfkit
-wkhtmltopdf
+flask
+flask-mysqldb
+PyMySQL
+werkzeug
+gunicorn
